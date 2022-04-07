@@ -50,4 +50,4 @@ print 'indent 4 spaces'
 
 [1]: http://pokemon.com
 [2]: http://pokemon.com
-[3]: hhttps://via.placeholder.com/150
+[3]: https://via.placeholder.com/150
