@@ -9,9 +9,6 @@
 Heading 2
 [Link](http://pokemon.com)
 
-![Image](https://images.app.goo.gl/yUMdbLvnZt5viDve9)
-
-
 > This is a large block quote	
 > More of the quote
 
