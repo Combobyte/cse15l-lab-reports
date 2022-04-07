@@ -44,9 +44,10 @@ print 'indent 4 spaces'
 
 [Link][1]
 
-![Image](https://images.app.goo.gl/mwCLu9qcJfFBGuik9)
+![Image][3]
 
 [Link][2]
 
 [1]: http://pokemon.com
 [2]: http://pokemon.com
+[3]: https://images.app.goo.gl/mwCLu9qcJfFBGuik9
