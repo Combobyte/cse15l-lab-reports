@@ -19,6 +19,8 @@ Hello! This is a tutorial for how to log into ieng6.
 * `cat <file>` To create a file
 * `exit` To exit ieng6
 
+![Image](images/image1.png)
+
 4. Once you exit ieng6 we can try to copy files with scp. To copy a file navigate to the directory that the file is in. Then in the terminal you can type: `scp <filename> <username>@ieng6.ucsd.edu:~/`. This will copy the file to the root folder on ieng6.
 
 ![Image](images/image9.png)
@@ -41,6 +43,10 @@ Hello! This is a tutorial for how to log into ieng6.
 * You can use semicolons to chain together multiple statements. For example `mkdir hello; cd hello; touch text.txt` will make a folder enter that folder and then create the text file.
 * The up arrow allows you to recall the last command that you called
 * You can also type: `ssh <username>@ieng6.ucsd.edu "ls"` to login and then run the command that is in the quotes.
+
+Here is an example of me using the multicommand to create a text file inside of a new folder
+
+![Image](images/multicommand.png)
 
 
 That is the end of my first last report. Thank you for reading!
