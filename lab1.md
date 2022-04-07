@@ -28,8 +28,6 @@ Hello! This is a tutorial for how to log into ieng6.
 * Type `scp id_rsa.pub <username>@ieng6.ucsd.edu:~/.ssh/authorized_keys` to copy the public key to ieng6
 * Once you do that you are able to login without a password
 
-\\
-
 6. Now if you have noticed it takes a long time to type some of the commands needed to move around. To get around this there are some ways to chain multiple commands together.
 
 * You can use semicolons to chain together multiple statements. For example `mkdir hello; cd hello; touch text.txt` will make a folder enter that folder and then create the text file.
