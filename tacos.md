@@ -44,3 +44,11 @@ print 'indent 4 spaces'
 print '3 backticks or'
 print 'indent 4 spaces'
 ```
+
+[Link][1]
+⋮
+[1]: http://pokemon.com
+
+[Link][2]
+⋮
+[2]: http://pokemon.com
