@@ -43,9 +43,10 @@ print 'indent 4 spaces'
 ```
 
 [Link][1]
-⋮
-[1]: http://pokemon.com
+
+
 
 [Link][2]
-⋮
+
+[1]: http://pokemon.com
 [2]: http://pokemon.com
