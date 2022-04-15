@@ -4,7 +4,7 @@
 
 Hello! This is a tutorial for how to log into ieng6.
 
-1. The first step to log into ieng6 is to download vscode. Vscode is a free text editor that you can use for coding. 
+1. The first step to log into ieng6 is to download vscode. Vscode is a free text editor that you can use for coding. A link to the download can be found [here](https://code.visualstudio.com/)! 
 
 ![Image](images/image2.png)
 
