@@ -26,10 +26,10 @@ Hello! Welcome to lab report 2! Today we will be talking about 3 code changes th
 
 3. The third code change we made:
 
-    a. Here is an image of the third code change commit:
+    a. The third code change is too big to be an image so here is a [link](https://github.com/Combobyte/markdown-parser/commit/5e99905e1fa7667be84c889b739796d84d015366) to the code diff.
 
-    b.
+    b. The file that caused this failure is [this one](https://github.com/Combobyte/markdown-parser/blob/main/test-file.md)
 
-    c.
+    c. From the image below we can see that the symptom of the error is the `java.lang.StringIndexOutOfBoundsException`.
 
-    d.
+    d. The relationship between the bug, the symptom, and the failure inducing input was that the the failure inducing input didn't have any brackets after the last parentheses at the bottom which caused the bug to throw the exception. The symptom of this appeared in the form of the exception being thrown.
