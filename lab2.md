@@ -37,3 +37,5 @@ Hello! Welcome to lab report 2! Today we will be talking about 3 code changes th
     ![Image](imageslab2/codefail.png)
 
     d. The relationship between the bug, the symptom, and the failure inducing input was that the the failure inducing input didn't have any brackets after the last parentheses at the bottom which caused the bug to throw the exception. The symptom of this appeared in the form of the exception being thrown.
+
+That's the end of the lab report. Thanks for reading!
