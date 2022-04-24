@@ -7,6 +7,7 @@ Hello! Welcome to lab report 2! Today we will be talking about 3 code changes th
 1. The first code change that we made:
 
     a. Here is an image of the first code change commit:
+    ![Image](imageslab2/change1.png)
 
     b. The file that caused this failure inducing input was [this one](https://github.com/Tyler-Culp/markdown-parser/blob/main/break-file.md)
 
@@ -17,10 +18,12 @@ Hello! Welcome to lab report 2! Today we will be talking about 3 code changes th
 2. The second code change we made:
 
     a. Here is an image of the second code change commit:
+    ![Image](imageslab2/codediff2.png)
 
     b. The file that caused the failure is [this one](https://github.com/Tyler-Culp/markdown-parser/blob/main/test-file.md)
 
     c. From the commit message we can see that the symptom of this failure was the infinite loop.
+    ![Image](imageslab2/infiniteloop.png)
 
     d. The relationship between the bug, the symptom, and the failure inducing input was that the the failure inducing input had an extra line at the bottom which caused the bug to run the while loop forever. The symptom of this appeared in the form of an infinite loop.
 
@@ -31,5 +34,6 @@ Hello! Welcome to lab report 2! Today we will be talking about 3 code changes th
     b. The file that caused this failure is [this one](https://github.com/Combobyte/markdown-parser/blob/main/test-file.md)
 
     c. From the image below we can see that the symptom of the error is the `java.lang.StringIndexOutOfBoundsException`.
+    ![Image](imageslab2/codefail.png)
 
     d. The relationship between the bug, the symptom, and the failure inducing input was that the the failure inducing input didn't have any brackets after the last parentheses at the bottom which caused the bug to throw the exception. The symptom of this appeared in the form of the exception being thrown.
