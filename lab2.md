@@ -6,7 +6,7 @@ Hello! Welcome to lab report 2! Today we will be talking about 3 code changes th
 
 1. The first code change that we made:
 
-    a. Here is an image of the fist code change commit:
+    a. Here is an image of the first code change commit:
 
     b. The file that caused this failure inducing input was [this one](https://github.com/Tyler-Culp/markdown-parser/blob/main/break-file.md)
 
@@ -16,17 +16,17 @@ Hello! Welcome to lab report 2! Today we will be talking about 3 code changes th
 
 2. The second code change we made:
 
-    a.
+    a. Here is an image of the second code change commit:
 
-    b.
+    b. The file that caused the failure is [this one](https://github.com/Tyler-Culp/markdown-parser/blob/main/test-file.md)
 
-    c.
+    c. From the commit message we can see that the symptom of this failure was the infinite loop.
 
-    d.
+    d. The relationship between the bug, the symptom, and the failure inducing input was that the the failure inducing input had an extra line at the bottom which caused the bug to run the while loop forever. The symptom of this appeared in the form of an infinite loop.
 
 3. The third code change we made:
 
-    a.
+    a. Here is an image of the third code change commit:
 
     b.
 
