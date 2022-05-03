@@ -22,7 +22,8 @@ Hello! Welcome to lab report 2! Today we will be talking about 3 code changes th
 
     b. The file that caused the failure is [this one](https://github.com/Tyler-Culp/markdown-parser/blob/main/test-file.md)
 
-    c. From the commit message we can see that the symptom of this failure was the infinite loop.
+    c. From the commit message we can see that the symptom of this failure was the infinite loop which can be seen below in both the commit message and the terminal:
+    ![Image](imageslab2/coder.png)
     ![Image](imageslab2/infiniteloop.png)
 
     d. The relationship between the bug, the symptom, and the failure inducing input was that the the failure inducing input had an extra line at the bottom which caused the bug to run the while loop forever. The symptom of this appeared in the form of an infinite loop.
