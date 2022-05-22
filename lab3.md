@@ -42,7 +42,7 @@ Hello! Welcome to lab 3 where we will talk about all of the 3 special activites 
 
     ![Image](imageslab3/make.png)
 
-    c) We can also see that we are able to copy and run in one step using the command `scp -r markdown-parser ieng6:~/; ssh ieng6 "cd markdown-parser; make test"`. The image doesn't show the run because of the amount of files being copied, but it did run the test:
+    c) We can also see that we are able to copy and run in one step using the command `scp -r markdown-parser ieng6:~/; ssh ieng6 "cd markdown-parser; make test`. The image doesn't show the run because of the amount of files being copied, but it did run the test:
 
     ![Image](imageslab3/copyandrun.png)
 
