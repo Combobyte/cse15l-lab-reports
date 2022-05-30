@@ -2,7 +2,7 @@
 
 ---
 
-Hello! Welcome to lab report 4 where we will test both our group's repository and our partner group's repository on some new code snippets. These 3 snippets and their expected results can be see in the following images:
+Hello! Welcome to lab report 4 where we will test both our group's repository whihc can be found [here](https://github.com/Combobyte/markdown-parser) and our partner group's repository which can be found [here](https://github.com/nquach1515/markdown-parser-cse15l) on some new code snippets. These 3 snippets and their expected results can be see in the following images:
 
 1. Code snippet 1:
     ![Image](imageslab4/snippet1.png)
