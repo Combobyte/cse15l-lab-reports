@@ -14,6 +14,8 @@ Hello! Welcome to lab report 5 where we are comparing implementations of `Markdo
 
     From this we can see that my version of `MarkdownParse.java` fails and the most updated one passes this test. The bug in my `MarkdownParse.java` is that I don't account for the split up link which means that this isn't counted as a link. To fix this I would have to write another state for my `Graph.java` to account for this:
 
+    ![Image](imageslab5/fix.png)
+
 2. The second error was file `487.md`. The actual result is:
 
     ![Image](imageslab5/487.png)
@@ -23,3 +25,5 @@ Hello! Welcome to lab report 5 where we are comparing implementations of `Markdo
     ![Image](imageslab5/487results.png)
 
     From this we can see that my version of `MarkdownParse.java` fails and the most updated one passes this test. The bug in my `MarkdownParse.java` is that I don't account for the escape character in the link. To fix this I would have to write another state for my `Graph.java` to account for this:
+
+    ![Image](imageslab5/fix.png)
